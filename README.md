@@ -1,5 +1,4 @@
-# Proyecto01
+# fs_493_II_PAC_2022
 
-
-# Tenemos que este repositorio es un repositorio comodín para aprender el uso de git. 
-# En sí, esto no es dificil, pero tienen que aprender a usar la consola :) .
+*Hola jovenes este repositorio será para que ustedes lo clonen*
+Estamos probando clonar 
